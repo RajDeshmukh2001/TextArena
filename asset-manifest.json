@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextArena/static/css/main.39c66f5d.css",
+    "main.js": "/TextArena/static/js/main.9c6178fe.js",
+    "static/js/787.7fbfb937.chunk.js": "/TextArena/static/js/787.7fbfb937.chunk.js",
+    "index.html": "/TextArena/index.html",
+    "main.39c66f5d.css.map": "/TextArena/static/css/main.39c66f5d.css.map",
+    "main.9c6178fe.js.map": "/TextArena/static/js/main.9c6178fe.js.map",
+    "787.7fbfb937.chunk.js.map": "/TextArena/static/js/787.7fbfb937.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c66f5d.css",
+    "static/js/main.9c6178fe.js"
+  ]
+}
